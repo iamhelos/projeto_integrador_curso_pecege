@@ -1,4 +1,5 @@
 Projeto Integrador – Analytics
+
 Análise do comportamento da carga do SIN durante períodos de El Niño e La Niña entre 2023 e 2025
 Projeto desenvolvido por Heloisa Silva dos Santos.
 Objetivo
